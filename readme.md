@@ -10,7 +10,9 @@
 - Aṕos realizar a etapa de configuração, os exemplos podem ser executados:
 
   `npm run currying`: Executa o exemplo do código de currying
+  
   `logger:OOP`: Executa o exemplo do código do Logger, no paradigma OOP
+  
   `logger:FP`: Executa o exemplo do código do Logger, no paradigma FP
 
   
